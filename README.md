@@ -1,2 +1,1 @@
-# JavaLink
-Headstarter AI Project
+# JavaLink - Headstarter AI Project
